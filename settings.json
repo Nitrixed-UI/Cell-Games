@@ -1,0 +1,17 @@
+{
+  "cellSize": 3.6,
+  "simRate": 50.2,
+  "lonlinessPunishment": 0.5,
+  "hinderThreshold": 0.501,
+  "maxEnergy": 1.01,
+  "overcrowdingThreshold": 5,
+  "reviveAliveCount": 3,
+  "reviveHinderedCount": 4,
+  "hinderedEffectFromAlive": 0.05,
+  "hinderedEffectFromHindered": 0.025,
+  "hinderedEffectFromDead": -0.067,
+  "aliveEffectFromAlive": 0.01,
+  "aliveEffectFromHindered": 0.015,
+  "aliveEffectFromDead": -0.04,
+  "wrapEdges": true
+}

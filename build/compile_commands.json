@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/include\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/backends\" -g -std=gnu++17 -o CMakeFiles\\imgui.dir\\libs\\imgui\\imgui-1.92.8\\imgui.cpp.obj -c \"C:\\Users\\bryso\\OneDrive\\Desktop\\GitTest\\Placeholder Name\\libs\\imgui\\imgui-1.92.8\\imgui.cpp\"",
+  "file": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/imgui.cpp",
+  "output": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/include\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/backends\" -g -std=gnu++17 -o CMakeFiles\\imgui.dir\\libs\\imgui\\imgui-1.92.8\\imgui_draw.cpp.obj -c \"C:\\Users\\bryso\\OneDrive\\Desktop\\GitTest\\Placeholder Name\\libs\\imgui\\imgui-1.92.8\\imgui_draw.cpp\"",
+  "file": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/imgui_draw.cpp",
+  "output": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/include\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/backends\" -g -std=gnu++17 -o CMakeFiles\\imgui.dir\\libs\\imgui\\imgui-1.92.8\\imgui_tables.cpp.obj -c \"C:\\Users\\bryso\\OneDrive\\Desktop\\GitTest\\Placeholder Name\\libs\\imgui\\imgui-1.92.8\\imgui_tables.cpp\"",
+  "file": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/imgui_tables.cpp",
+  "output": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/include\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/backends\" -g -std=gnu++17 -o CMakeFiles\\imgui.dir\\libs\\imgui\\imgui-1.92.8\\imgui_widgets.cpp.obj -c \"C:\\Users\\bryso\\OneDrive\\Desktop\\GitTest\\Placeholder Name\\libs\\imgui\\imgui-1.92.8\\imgui_widgets.cpp\"",
+  "file": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/imgui_widgets.cpp",
+  "output": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/include\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/backends\" -g -std=gnu++17 -o CMakeFiles\\imgui.dir\\libs\\imgui\\imgui-1.92.8\\backends\\imgui_impl_glfw.cpp.obj -c \"C:\\Users\\bryso\\OneDrive\\Desktop\\GitTest\\Placeholder Name\\libs\\imgui\\imgui-1.92.8\\backends\\imgui_impl_glfw.cpp\"",
+  "file": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/backends/imgui_impl_glfw.cpp",
+  "output": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/backends/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/include\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/backends\" -g -std=gnu++17 -o CMakeFiles\\imgui.dir\\libs\\imgui\\imgui-1.92.8\\backends\\imgui_impl_opengl3.cpp.obj -c \"C:\\Users\\bryso\\OneDrive\\Desktop\\GitTest\\Placeholder Name\\libs\\imgui\\imgui-1.92.8\\backends\\imgui_impl_opengl3.cpp\"",
+  "file": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/backends/imgui_impl_opengl3.cpp",
+  "output": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/backends/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/include\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8\" -I\"C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/libs/imgui/imgui-1.92.8/backends\" -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\src\\main.cpp.obj -c \"C:\\Users\\bryso\\OneDrive\\Desktop\\GitTest\\Placeholder Name\\src\\main.cpp\"",
+  "file": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/src/main.cpp",
+  "output": "C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/MyProject.dir/src/main.cpp.obj"
+}
+]

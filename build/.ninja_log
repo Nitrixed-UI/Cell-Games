@@ -1,0 +1,20 @@
+# ninja log v7
+28	1005	8048335631360569	CMakeFiles/MyProject.dir/src/main.cpp.obj	13b14e234927550b
+1007	1505	8048335641142471	MyProject.exe	eb77d2d0a3a2df4f
+96	4180	8048344211197781	build.ninja	d4a38df2e9bf7ad5
+96	4180	8048344211075595	C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/cmake_install.cmake	d4a38df2e9bf7ad5
+74	1627	8047385469301049	CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/backends/imgui_impl_opengl3.cpp.obj	a269b16ef27f8849
+64	2085	8047385469197291	CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/backends/imgui_impl_glfw.cpp.obj	6b15d46f1479fb90
+49	2350	8047385469039911	CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/imgui_tables.cpp.obj	4690e1843f3554fa
+41	3252	8047385468969300	CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/imgui_draw.cpp.obj	11ffdbb40065c45c
+57	3510	8047385469129763	CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/imgui_widgets.cpp.obj	8b6b746641370177
+29	4539	8047385468839731	CMakeFiles/imgui.dir/libs/imgui/imgui-1.92.8/imgui.cpp.obj	9d02a742f8601241
+4539	4808	8047385513937707	libimgui.a	8c209ddde88a72a3
+27	1013	8048344273260679	CMakeFiles/MyProject.dir/src/main.cpp.obj	13b14e234927550b
+1014	1496	8048344283128230	MyProject.exe	eb77d2d0a3a2df4f
+29	983	8048353490153872	CMakeFiles/MyProject.dir/src/main.cpp.obj	13b14e234927550b
+984	1430	8048353499697276	MyProject.exe	eb77d2d0a3a2df4f
+29	1006	8048357869274268	CMakeFiles/MyProject.dir/src/main.cpp.obj	13b14e234927550b
+1007	1437	8048357879049098	MyProject.exe	eb77d2d0a3a2df4f
+27	976	8048360228981645	CMakeFiles/MyProject.dir/src/main.cpp.obj	13b14e234927550b
+977	1413	8048360238478389	MyProject.exe	eb77d2d0a3a2df4f

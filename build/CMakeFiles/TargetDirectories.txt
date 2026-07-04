@@ -1,0 +1,4 @@
+C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/imgui.dir
+C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/MyProject.dir
+C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/edit_cache.dir
+C:/Users/bryso/OneDrive/Desktop/GitTest/Placeholder Name/build/CMakeFiles/rebuild_cache.dir
